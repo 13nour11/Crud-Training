@@ -1,0 +1,8 @@
+/* .crud{
+    
+} */
+.product img{
+    height: 150px;
+    object-fit: contain;
+    /* background-image: url(../images/); */
+}
